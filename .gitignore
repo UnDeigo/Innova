@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Videos y fotos de prueba (pueden tener personas y patentes: no subir)
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.jpg
+*.jpeg
+*.png
+
+# Resultados del programa y calibración local
+salida_video/
+salida_imagen/
+runs/
+
+# Pesos de YOLO (se descargan solos la primera vez)
+*.pt
